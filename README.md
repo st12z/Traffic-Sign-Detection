@@ -21,8 +21,6 @@ Activation functions introduce non-linearity into the network, enabling it to le
 The model in this project was trained using TensorFlow and Keras, with the following specifications:
 - Utilization of CNN architecture optimized for image classification tasks.
 - Training on the Traffic Sign Dataset for Classification, which consists of thousands of images across various classes of traffic signs.
-- Data augmentation techniques such as rotation, scaling, and flipping to enhance model generalization.
-- Transfer learning from pre-trained models for improved performance.
 
 After training, the model achieved an impressive accuracy of **98.89%** on the test dataset, indicating its robustness and effectiveness in classifying traffic signs.
 
@@ -35,7 +33,6 @@ To use the application, follow these steps:
 Upon running `main.py`, a graphical user interface (GUI) will be launched where users can interact with the application. The GUI provides the following functionalities:
 - **Upload Photo:** Users can upload their own images containing traffic signs.
 - **Classify Traffic Sign:** Once an image is uploaded, users can initiate the classification process to identify the traffic sign present in the image.
-- **View Results:** The application displays the predicted class label along with the confidence score for the detected traffic sign.
 
 ## Screenshots
 Below are some screenshots showcasing the application interface and functionality:
