@@ -1,8 +1,10 @@
-Pandas
-Numpy
+pandas
+numpy
 tensorflow
-PIL
-Sklearn
+pillow
+scikit-learn
 keras
-matplotlib/seaborn
-tkinter
+matplotlib
+seaborn
+opencv-python
+plotly
