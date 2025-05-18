@@ -17,8 +17,8 @@ def load_traffic_classifier():
 
     # Dictionary to label all traffic signs class
 
-    classes = { 1:'Speed limit (20km/h)',
-                2:'Speed limit (30km/h)', 
+    classes = { 1:'Tối đa 20 km/h',
+                2:'Tối đa 30 km/h', 
                 3:'Speed limit (50km/h)', 
                 4:'Speed limit (60km/h)', 
                 5:'Speed limit (70km/h)', 
